@@ -75,7 +75,13 @@
 		4∞- How to Find Words; 
 
 - 📫 How to reach me: ...
+	Linkedin: https://www.linkedin.com/in/vfsimao/
+	Instagram: https://www.instagram.com/vfsimao/
+	Facebook: https://www.facebook.com/vfsimao 
+	Behance: https://www.behance.net/vfsimao
+	Whatsapp: +55 11 98239.8994
 
 - ⚡ Fun fact: ...
-	This is the first time that I use github in many years
+	What did the policeman say to his bellybutton?
+	-- You're under a vest.
 -->
