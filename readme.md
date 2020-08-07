@@ -24,55 +24,55 @@
 		1l. Validation;
 		1m. Agile.
 
-	### 2- **Traffic Management:**
-		2∞- Segmentation;
-		2a- Google Ads Documentation;
-		2b- Facebook/Instagram Ads Documentation;
-		2c- Strategy of Segmented Traffic:
-			2ca- Refined Target;
-			2cb- Traffic Sources;
-		2d- Tools:
-			2da- Google Adwords;
-			2db- Facebook Ads Manager;
-			2dc- Instagram Ads;
-			2dd- Google Analytics;
-			2de- Google Tag Manager;
-			2df- Google Keyword Planner;
-			2dg- Google Optimize;
-			2dh- Google Tag Assistant Chrome Extension;
-			2di- Facebook Audience Insights;
-			2dj- Facebook Ad Library;
-		2e- Marketing Digital Pillars;
-			2ea- Traffic;
-			2eb- Conversion;
-		2f- Traffic Pillars:
-			2fa- Landing Page;
-			2fb- Segmentation;
-			2fc- Ad;
-			2fd- Offer.
-		2g- Customers vs Leads;
-		2h- Campaigns Models:
-			2ha- Daily sales;
-			2hb- Recorrency;
-			2hc- Launching;
-		2i- Funnel:
-			2ia- Top;
-			2ib- Middle;
-			2ic- Deep.
-		2j- 6V Management;
+	### 2. **Traffic Management:**
+		2∞. Segmentation;
+		2a. Google Ads Documentation;
+		2b. Facebook/Instagram Ads Documentation;
+		2c. Strategy of Segmented Traffic:
+			2ca. Refined Target;
+			2cb. Traffic Sources;
+		2d. Tools:
+			2da. Google Adwords;
+			2db. Facebook Ads Manager;
+			2dc. Instagram Ads;
+			2dd. Google Analytics;
+			2de. Google Tag Manager;
+			2df. Google Keyword Planner;
+			2dg. Google Optimize;
+			2dh. Google Tag Assistant Chrome Extension;
+			2di. Facebook Audience Insights;
+			2dj. Facebook Ad Library;
+		2e. Marketing Digital Pillars;
+			2ea. Traffic;
+			2eb. Conversion;
+		2f. Traffic Pillars:
+			2fa. Landing Page;
+			2fb. Segmentation;
+			2fc. Ad;
+			2fd. Offer.
+		2g. Customers vs Leads;
+		2h. Campaigns Models:
+			2ha. Daily sales;
+			2hb. Recorrency;
+			2hc. Launching;
+		2i. Funnel:
+			2ia. Top;
+			2ib. Middle;
+			2ic. Deep.
+		2j. 6V Management;
 				
 
-	### 3- **Design Management:**
-		3∞- Best Practices;
-		3a- Apple Guidelines;
-		3b- Google Guidelines;
-		3c- Tools; 
-		3d- User Interface;
-		3e- User Experience;
-		3f- Design Metrics.
+	### 3. **Design Management:**
+		3∞. Best Practices;
+		3a. Apple Guidelines;
+		3b. Google Guidelines;
+		3c. Tools; 
+		3d. User Interface;
+		3e. User Experience;
+		3f. Design Metrics.
 
-	### 4- **Copywriting Swipe Files:**
-		4∞-;
+	### 4. **Copywriting Swipe Files:**
+		4∞.;
 
 - 📫 ### **How to reach me:** ...
 	Linkedin: https://www.linkedin.com/in/vfsimao/
