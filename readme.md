@@ -72,7 +72,7 @@
 		3f- Design Metrics.
 
 	4- Copywriting Swipe Files:
-		4∞- How to Find Words; 
+		4∞-; 
 
 - 📫 How to reach me: ...
 	Linkedin: https://www.linkedin.com/in/vfsimao/
