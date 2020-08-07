@@ -1,14 +1,14 @@
-### Wow, if you are reading this document, you are too close to achieve a tool to make a million dollars (or more)! 👋
+# Wow, if you are reading this document, you are too close to achieve a tool to make a million dollars (or more)! 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 ## **I’m currently working on** ...
   
- 	The following documentation:
-    	1- Product Management;
-    	2- Traffic Management;
-		3- Design Management;
-    	4- Copywriting Swipe Files. 
+ 	### **The following documentation**
+    	1. Product Management;
+    	2. Traffic Management;
+		3. Design Management;
+    	4. Copywriting Swipe Files. 
 
-	1- Product Management sumary:
+	### 1- **Product Management sumary:**
 		1∞- Culture;
 		1a- Tools;
 		1b- Customer Journey;
@@ -24,7 +24,7 @@
 		1l- Validation;
 		1m- Agile.
 
-	2- Traffic Management:
+	### 2- **Traffic Management:**
 		2∞- Segmentation;
 		2a- Google Ads Documentation;
 		2b- Facebook/Instagram Ads Documentation;
@@ -62,7 +62,7 @@
 		2j- 6V Management;
 				
 
-	3- Design Management:
+	### 3- **Design Management:**
 		3∞- Best Practices;
 		3a- Apple Guidelines;
 		3b- Google Guidelines;
@@ -71,17 +71,17 @@
 		3e- User Experience;
 		3f- Design Metrics.
 
-	4- Copywriting Swipe Files:
+	### 4- **Copywriting Swipe Files:**
 		4∞-;
 
-- 📫 How to reach me: ...
+- 📫 ### **How to reach me:** ...
 	Linkedin: https://www.linkedin.com/in/vfsimao/
 	Instagram: https://www.instagram.com/vfsimao/
 	Facebook: https://www.facebook.com/vfsimao 
 	Behance: https://www.behance.net/vfsimao
 	Whatsapp: +55 11 98239.8994
 
-- ⚡ Fun fact: ...
+- ⚡ ### **Fun fact:** ...
 	What did the policeman say to his bellybutton?
 	-- You're under a vest.
 -->
