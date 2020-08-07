@@ -20,7 +20,7 @@
 		1h. Documentation;
 		1i. Roadmap;
 		1j. Priorization;
-		1k. Realease Planning;
+		1k. Release Planning;
 		1l. Validation;
 		1m. Agile.
 
