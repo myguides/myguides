@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
   
- 	The following documentation: One more test!
+ 	The following documentation:
     	1- Product Management;
     	2- Traffic Management;
 		3- Design Management;
