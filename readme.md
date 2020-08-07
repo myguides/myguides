@@ -71,8 +71,8 @@
 		3e- User Experience;
 		3f- Design Metrics.
 
-	4- Copywriting Swipe Files: Lorem ipsum
-		4∞-; xoxota gostosa
+	4- Copywriting Swipe Files:
+		4∞-;
 
 - 📫 How to reach me: ...
 	Linkedin: https://www.linkedin.com/in/vfsimao/
