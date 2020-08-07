@@ -75,11 +75,11 @@
 		4∞.;
 
 - 📫 ### **How to reach me:** ...
-	.Linkedin: https://www.linkedin.com/in/vfsimao/
-	.Instagram: https://www.instagram.com/vfsimao/
-	.Facebook: https://www.facebook.com/vfsimao 
-	.Behance: https://www.behance.net/vfsimao
-	.Whatsapp: +55 11 98239.8994
+	1. Linkedin: https://www.linkedin.com/in/vfsimao/
+	2. Instagram: https://www.instagram.com/vfsimao/
+	3. Facebook: https://www.facebook.com/vfsimao 
+	4. Behance: https://www.behance.net/vfsimao
+	5. Whatsapp: +55 11 98239.8994
 
 - ⚡ ### **Fun fact:** ...
 	What did the policeman say to his bellybutton?
