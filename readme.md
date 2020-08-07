@@ -53,7 +53,7 @@
 		2g. Customers vs Leads;
 		2h. Campaigns Models:
 			2ha. Daily sales;
-			2hb. Recorrency;
+			2hb. Recurrency;
 			2hc. Launching;
 		2i. Funnel:
 			2ia. Top;
