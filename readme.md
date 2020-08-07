@@ -3,9 +3,9 @@
 - 🔭 ## **I’m currently working on** ...
   
  	### **The following documentation**
-    	1. Product Management;
-    	2. Traffic Management;
-		3. Design Management;
+    	1. Product Management Guide;
+    	2. Traffic Management Guide;
+		3. Design Management Guide;
     	4. Copywriting Swipe Files. 
 
 	### 1- **Product Management sumary:**
