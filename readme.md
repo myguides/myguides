@@ -8,21 +8,21 @@
 		3. Design Management Guide;
     	4. Copywriting Swipe Files. 
 
-	### 1- **Product Management sumary:**
-		1∞- Culture;
-		1a- Tools;
-		1b- Customer Journey;
-		1c- Product Discovery;
-		1d- Product Metrics;
-		1e- North Star Metric;
-		1f- Outputs;
-		1g- Outcomes;
-		1h- Documentation;
-		1i- Roadmap;
-		1j- Priorization;
-		1k- Realease Planning;
-		1l- Validation;
-		1m- Agile.
+	### 1. **Product Management sumary:**
+		1∞. Culture;
+		1a. Tools;
+		1b. Customer Journey;
+		1c. Product Discovery;
+		1d. Product Metrics;
+		1e. North Star Metric;
+		1f. Outputs;
+		1g. Outcomes;
+		1h. Documentation;
+		1i. Roadmap;
+		1j. Priorization;
+		1k. Realease Planning;
+		1l. Validation;
+		1m. Agile.
 
 	### 2- **Traffic Management:**
 		2∞- Segmentation;
